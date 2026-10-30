@@ -157,13 +157,7 @@ CREATE TABLE `usuarios` (
 -- Despejando dados para a tabela `usuarios`
 --
 
-INSERT INTO `usuarios` (`id`, `nome`, `email`, `senha`, `tipo`, `criado_em`) VALUES
-(1, 'eee', 'u@gmail.com', '$2y$10$y0eHO6dkNP7jjFaTiWe4hOQ2Rg.7KEOSu2q6H2Zo7XmKMyWkwgt5S', 'cliente', '2026-06-30 22:39:00'),
-(2, 'euu', 'a@gmail.com', '$2y$10$d2vsHEjuu4TO/R321LKIU.GSZgxKUGACMe6clOl/Oj0OBRRhat0a2', 'cliente', '2026-07-01 00:44:34'),
-(3, 'Administrador', 'adm@gmail.com', '$2y$10$KazwFzyzYsG1Y9UTJjqJOeizjATo3GzNv4z8Kq4GwBGFxo4aMd9ui', 'admin', '2026-07-01 02:07:00'),
-(5, 'Wanderson ', 'eu@gmail.com', '$2y$10$zpUTOLEQallPCXs4ECWc7.bcLPF.ZOcXh6tSE.MMIn8Cm02G.RBbC', 'cliente', '2026-07-01 21:12:02'),
-(6, 'adm', 'uo@gmail.com', '$2y$10$xBRF0avXtFFpgFNKQ6aTkeuzcbz6awS/UXQ3HfHPllB5DVAHmn8c2', 'admin', '2026-07-01 23:23:48'),
-(7, 'eu', 'uadm@gmail.com', '$2y$10$lvIMwggv9uecJNRVKDEP8e8frRKfarTVvhTMNMo57yDcwYGD9MlHe', 'admin', '2026-07-01 23:24:12');
+ 
 
 -- --------------------------------------------------------
 
